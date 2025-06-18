@@ -27,12 +27,12 @@ A simple console application to track financial transactions built with C#, Dapp
 
 ### Setup
 
-1. Clone this repository:
+**1. Clone this repository:**
    
    git clone https://github.com/yourusername/BudgetTracker.git
    cd BudgetTracker
 
-3. Create the database and table. Use the following SQL to create your database table:
+**2. Create the database and table. Use the following SQL to create your database table:**
 
    CREATE TABLE Transactions (
        Id INT IDENTITY(1,1) PRIMARY KEY,
@@ -41,7 +41,7 @@ A simple console application to track financial transactions built with C#, Dapp
        Amount DECIMAL(18,2) NOT NULL
    );
 
-4. Configure your database connection:
+**3. Configure your database connection:**
 
    Edit appSettings.json and update the connection string:
    
@@ -51,6 +51,6 @@ A simple console application to track financial transactions built with C#, Dapp
      }
    }
 
-5. Build and run the app:
+**4. Build and run the app:**
    
    dotnet run
