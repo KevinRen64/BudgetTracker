@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QN5r9I45mc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Junzhang Ren\\source\\repos\\BudgetTracker\\BudgetTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.6\\microsoft.extensions.configuration.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.6\\microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.6\\microsoft.extensions.configuration.fileextensions.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.6\\microsoft.extensions.configuration.json.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.6\\microsoft.extensions.fileproviders.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.6\\microsoft.extensions.fileproviders.physical.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.6\\microsoft.extensions.filesystemglobbing.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
+    "C:\\Users\\Junzhang Ren\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
